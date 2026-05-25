@@ -8,9 +8,6 @@ Project files / demo video / screenshots:
 
 [![Google Drive](https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg)](https://drive.google.com/drive/folders/1DrsW7JVjVf-UQ7qyAWxzZzT8dE-PBekG?usp=sharing)
 
-
-Replace `PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE` with your public Google Drive share link before uploading this project to GitHub.
-
 ## Features
 
 - User registration and login
